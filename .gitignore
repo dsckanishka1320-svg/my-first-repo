@@ -3,3 +3,4 @@ passwards.txt
 *.log
 node_module
 !important.log
+home.html
