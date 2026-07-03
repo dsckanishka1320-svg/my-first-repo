@@ -49,7 +49,7 @@ cd my-first-repo
 
 ## Author
 
-**Kanishka**
+**Kanishka Rangra**
 
 ---
 
