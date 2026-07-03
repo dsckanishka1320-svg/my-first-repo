@@ -53,5 +53,5 @@ cd my-first-repo
 
 ---
 
-
+Thank you for visiting this repository.
 
